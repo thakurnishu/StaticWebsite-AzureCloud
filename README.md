@@ -1,6 +1,6 @@
-# First Week of Challenge
+# Static Website Hosting on Azure Cloud and CI/CD with Azure DevOps
 ## Overview
-Hi Everyone, In First Week of Challenge I have Deployed Simple Static WebSite in Azure Cloud using : 
+Hi Everyone, I have Deployed Simple Static WebSite in Azure Cloud using : 
 - __Azure Storage Account__ to host static website.
 - __Azure CDN__ to ensure global availability of our website across edge locations.
 - __Azure DevOps__ for CI/CD to automate the tasks.
